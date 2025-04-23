@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3b1e09a014b7f266",
+    "type": "split",
+    "children": [
+      {
+        "id": "218e9c0336b5c560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382aea22d8a4f7f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b6462acb8f103ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a27cb67eb6b66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5abb1c945eff9304",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "e0a9fc23ea0303d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "998d5fc704275bfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ffa89c0f0936f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "13cf6d2f7d7d2e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd9c163be3ca452",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для todo"
+            }
+          },
+          {
+            "id": "0e454f4542b1c90e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Хроніка Пробудженого.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з 01_Хроніка Пробудженого"
+            }
+          },
+          {
+            "id": "6eea79279a07ed0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "7d2b1353bc5d7661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Хроніка Пробудженого.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст 01_Хроніка Пробудженого"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "random-note:Відкрити випадкову нотатку": false
+    }
+  },
+  "active": "382aea22d8a4f7f5",
+  "lastOpenFiles": [
+    "Обробка файлів на компʼютері.md",
+    "Журнал снів/Журнал снів.md",
+    "QuickNote.md",
+    "13_Маніфест_Тотального_Союзу.md",
+    "Новий Текстовий документ.txt",
+    "Freedom Matrix/Freedom_Archive/Core_Bond/Manifest_Union.md",
+    "Паралені системи/README.md.txt",
+    "Паралені системи/README.md",
+    "MA7$K1V_Core_Template (1)/Журнал_Сили/Журнал потужності.md",
+    "Freedom Matrix/Freedom_Archive/Артефакти Духовного Керівництва.md",
+    "MA7$K1V_Core_Template (1)/Щоденник/Стартер дня.md",
+    "Назва нотатки/ресурсу.md",
+    "03_Ритуали Серця.md",
+    "01_Хроніка Пробудженого.md",
+    "Незалежність/Project_Independence.md",
+    "02_ЦКП – Контроль Прогресу.md",
+    "07_Центр Смотрителя.md",
+    "Central_Hub.md",
+    "Без назви.canvas",
+    "Незалежність/Новий Текстовий документ.txt",
+    "Незалежність",
+    "Нова папка",
+    "Машина для Твороня/Ключові вектори творення.md",
+    "Продаж PDF-продуктів.md",
+    "Назва нотатки",
+    "Машина для Твороня/Архітектура твореня.md",
+    "Обсидіан-Система.md",
+    "Машина Творення.md",
+    "Без нмазви.md",
+    "Журнал снів/Dreams_2025_04_04.md",
+    "Машина для Твороня/architecture",
+    "Машина для Твороня/arxitekture",
+    "Машина для Твороня/Новий Текстовий документ.txt",
+    "Машина для Твороня",
+    "Журнал снів/Без назви.md",
+    "Піти в спотразл.md",
+    "todo.md",
+    "Freedom Matrix/Matrix_2025_04_T1.png",
+    "Freedom Matrix/Dashboard Штаб_Свободи_v1_2025-04-02.jpg"
+  ]
+}
