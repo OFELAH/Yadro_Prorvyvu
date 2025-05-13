@@ -2,8 +2,8 @@ name: Memory Journal Sync
 
 on:
   schedule:
-     - cron: '0 * * * *'  # щогодини, на початку кожної години
-  workflow_dispatch:     # дозволяє запуск вручну
+    - cron: '0 * * * *'  # щогодини, на початку кожної години
+  workflow_dispatch:      # дозволяє запуск вручну
 
 jobs:
   read-memory:
@@ -22,6 +22,5 @@ jobs:
         run: pip install requests
 
       - name: Запуск memory_reader
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python "03_Технічна_Інфраструктура та Інтеграція/_Інтеграція_GitHub_API/memory_reader.py"
+        run: python infra/github_api/memory_reader.py
+
