@@ -3,7 +3,7 @@ name: Memory Journal Sync
 on:
   schedule:
     - cron: '0 * * * *'  # щогодини
-  workflow_dispatch:     # запуск вручну
+  workflow_dispatch:     # дозволяє запуск вручну
 
 jobs:
   read-memory:
@@ -24,5 +24,4 @@ jobs:
       - name: Запуск memory_reader
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python "run: python infra/github_api/memory_reader.py"
-
+        run: python infra/github_api/memory_reader.py
