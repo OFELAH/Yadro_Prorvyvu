@@ -2,8 +2,8 @@ name: Memory Journal Sync
 
 on:
   schedule:
-    - cron: '0 * * * *'  # щогодини
-  workflow_dispatch:     # дозволяє запуск вручну
+    - cron: '*/10 * * * *'  # кожні 10 хвилин
+  workflow_dispatch:         # дозволяє запуск вручну
 
 jobs:
   read-memory:
